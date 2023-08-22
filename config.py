@@ -1,11 +1,11 @@
-templogfolder = '/home/gaior/XENON/data/tipstudy/temperature/'
-hvlogfolder = folder = '/mnt/c/Users/gaior/Documents/'
+templogfolder = '/home/xenon/data/logs/ctc100/'
+hvlogfolder = '/mnt/c/Users/xenon/Documents/'
 hvlogfile = 'CAENGECO2020.log'
 
-dbbucket = "test"
-dborg = "cnrs"
-dbtoken = "Pc2dhjlJ5gGXCHnh2T5CXIdDpwebs9hTefnRloz_o6nrUwSmYAnRiKu7JM5YuVM-wKFl7XM8Bf87GZSqXBnxrQ=="
+dbbucket = "LXE_SC"
+dborg = "ipmu"
+dbtoken = "8yy7kXNRZ9qwvapSM1V1s_wGJoYSyIIG3a8a3JnswfKsWsf4OXWOETG_JoyK8ZXarfTWhfGh1uP38y1W3SdxuQ=="
 dburl="http://localhost:8086"
 
 
-ctcport = '/dev/ttyS7'
+ctcport = '/dev/ttyS6'
